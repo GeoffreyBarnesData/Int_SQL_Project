@@ -71,6 +71,6 @@ I found that a significant portion of the revenue from this company data comes f
 
 ## Technical Details
 
-I had minimal difficulties with this project. I created visuals using Python with the help from a few languages and some AI to speed up the process. I also found using SQL with DBeaver was very easy and intuitive. There were very few technical difficulties during this process if any.
+- I had minimal difficulties with this project. I created visuals using Python with the help from a few languages and some AI to speed up the process. I also found using SQL with DBeaver was very easy and intuitive. There were very few technical difficulties during this process if any.
 
-I used DBeaver, Visual Studios, PostgreSQL, ChatGPT (for graphing), SQL and Python, and I also followed along and added to 'Luke Barousse SQL for Data Analytics - Intermediate Course + Project'.
+- I used DBeaver, Visual Studios, PostgreSQL, ChatGPT (for graphing), SQL and Python, and I also followed along and added to 'Luke Barousse SQL for Data Analytics - Intermediate Course + Project'.
